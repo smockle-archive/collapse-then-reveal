@@ -1,7 +1,7 @@
 {
   "name": "collapse-then-reveal",
   "main": "./lib/collapse-then-reveal",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Reveals the focused file in the tree-view and collapses everything else. When no files are focused, reveals the top-level tree-view.",
   "repository": "https://github.com/smockle/collapse-then-reveal",
   "license": "ISC",
